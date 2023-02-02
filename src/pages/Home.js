@@ -2,10 +2,10 @@ import React from "react";
 
 import { useEffect,useRef,useState } from "react";
 
-import HeroText from "../components/HomePageComp/HomePage";
-import SecText from "../components/HomePageComp/AboutPage";
-import ProjectsSec from "../components/HomePageComp/AwardedProjects"
-import StudentComp from "../components/StudentComp/StudentComp";
+import HeroText from "../components/Homepage/HomePage";
+import SecText from "../components/Homepage/AboutPage";
+import ProjectsSec from "../components/Homepage/AwardedProjects"
+import StudentComp from "../components/Students/StudentComp";
 import Sponsors from "../components/Sponsors/Sponsors";
 
 // import useScrollSnap from 'react-use-scroll-snap';
